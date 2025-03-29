@@ -1,8 +1,8 @@
 #!/bin/bash
 
 WORDS=(
-    "pelota" "pez" "tigre" "mar" "tablet" "caja" "pantalla" "escritorio" "libreta" "Computadora"
-    "escuela" "Silla" "mango" "casa" "teatro" "torta" "pasta" "serie" "descanso" "madera"
+    "pelota" "pez" "tigre" "mar" "caja" "pantalla" "escritorio" "libreta" "Computadora"
+    "escuela" "mango" "casa" "teatro" "torta" "pasta" "serie" "descanso" "madera"
     "paulina" "copo"
 )
 
